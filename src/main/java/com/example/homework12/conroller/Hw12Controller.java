@@ -1,5 +1,9 @@
 package com.example.homework12.conroller;
 
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
 public class Hw12Controller {
     public class Main {
         public static void main (String[] args) {
